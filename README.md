@@ -6,7 +6,5 @@
 ![](https://github.com/emilylxf/emilylxf/blob/main/AboutMe.png)
 
 
-![Emily Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilylxf&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&hide=javascript,html,typescript,css,glsl)](https://github.com/emilylxf)
+![Emily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emilylxf&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
