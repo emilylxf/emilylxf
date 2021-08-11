@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, there!
+###This is Emily.
+I am currently a graduate student. 
+###I am exploring my world in Software. 
+Looking for 2022 internship. 
+My major:            Computer Science and Engineering
+My location :       San Jose, CA, USA
+My email:            xiaofang2146@gmail.com
