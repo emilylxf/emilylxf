@@ -1,25 +1,9 @@
 ### Hi there 👋
+### This is Emily
 
-<!--
-**emilylxf/emilylxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studing of Computer Science and Engineer
+- 🤔 I’m looking for 2022 internship of Software Development Engineer
+- 📫 How to reach me: xiaofang2146@gmail.com
+- ⚡ Fun fact:  drawing, exercising, reading
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi, there!
-###This is Emily.
-I am currently a graduate student. 
-###I am exploring my world in Software. 
-Looking for 2022 internship. 
-My major:            Computer Science and Engineering
-My location :       San Jose, CA, USA
-My email:            xiaofang2146@gmail.com
