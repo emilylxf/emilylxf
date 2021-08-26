@@ -1,6 +1,6 @@
 
 ## Emily Wang
-[![](https://img.shields.io/badge/LinkedIn-Emily_Wang-pink)](https://www.linkedin.com/in/emily-wang-bb6b29181/)
+[![](https://img.shields.io/badge/LinkedIn-Emily_Wang-pink)](https://www.linkedin.com/in/emily-yunfang-wang-bb6b29181/)
 [![](https://img.shields.io/badge/Gmail-Ywang25%40scu.edu-pink)](mailto:Ywang25@scu.edu)
 
 
